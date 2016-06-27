@@ -1,0 +1,14 @@
+{
+  "name": "playground-neon",
+  "version": "1.0.0",
+  "description": "testinnnn",
+  "main": "index.js",
+  "author": "Yoshua Wuyts <i@yoshuawuyts.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.1.7"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
